@@ -1,9 +1,16 @@
-# CompareInsurance Canada
+# Canada Money Calculator
 
-Canadian multi-category insurance education website, deployed from the existing GitHub repository to Netlify.
+Free browser-based Canadian financial calculators. Converted from the former CompareInsurance Canada website.
 
-Categories: life, auto, home, travel, health and business insurance. The life insurance coverage calculator runs locally in the browser.
+## Features
+- Canadian mortgage payments with semi-annual nominal-rate compounding
+- Monthly loan amortization
+- GST/HST general rates (does not include separate PST/QST/RST or exemptions)
+- Gross hourly-to-annual salary converter
+- Illustrative savings growth
+- Income tax planning estimate using visitor-supplied effective rate (not a CRA bracket calculator)
 
-**No live quotes or insurer integrations.** No applications, sales or lead submissions. Content is educational and does not constitute personalized advice. Commercial functionality requires appropriate licensing, insurer authorization, privacy and compliance review.
+No data submission or accounts. All calculations run in client-side JavaScript. Review all tax assumptions before making changes or promoting the site as accurate for tax filing.
 
-Current deployment: https://compareinsurance-canada.netlify.app/
+## Deployment
+Netlify is connected to this existing GitHub repository. The current Netlify project URL remains https://compareinsurance-canada.netlify.app/ until the site owner renames it to canada-money-calculator (if available). After the rename, update canonical URLs, sitemap and robots.txt.
