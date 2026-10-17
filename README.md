@@ -13,4 +13,4 @@ Free browser-based Canadian financial calculators. Converted from the former Com
 No data submission or accounts. All calculations run in client-side JavaScript. Review all tax assumptions before making changes or promoting the site as accurate for tax filing.
 
 ## Deployment
-Netlify is connected to this existing GitHub repository. The current Netlify project URL remains https://compareinsurance-canada.netlify.app/ until the site owner renames it to canada-money-calculator (if available). After the rename, update canonical URLs, sitemap and robots.txt.
+Netlify is connected to this existing GitHub repository. Live site: https://canada-money-calculator.netlify.app/. Canonical URLs, sitemap and robots.txt use this domain.
