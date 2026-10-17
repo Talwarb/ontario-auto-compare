@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-# Add Sitemap after the final domain is connected, for example:
-# Sitemap: https://YOUR-DOMAIN.ca/sitemap.xml
+Sitemap: https://comparelifeinsurance-canada.netlify.app/sitemap.xml
