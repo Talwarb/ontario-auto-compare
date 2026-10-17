@@ -6,4 +6,4 @@ Categories: life, auto, home, travel, health and business insurance. The life in
 
 **No live quotes or insurer integrations.** No applications, sales or lead submissions. Content is educational and does not constitute personalized advice. Commercial functionality requires appropriate licensing, insurer authorization, privacy and compliance review.
 
-Current deployment: https://comparelifeinsurance-canada.netlify.app/
+Current deployment: https://compareinsurance-canada.netlify.app/
