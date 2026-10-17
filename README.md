@@ -1,11 +1,9 @@
-# CompareLifeInsurance Canada
+# CompareInsurance Canada
 
-Canadian life insurance educational website replacing the previous auto insurance demo in the same GitHub repository and Netlify deployment.
+Canadian multi-category insurance education website, deployed from the existing GitHub repository to Netlify.
 
-Includes responsive term/whole/universal life guides, a browser-only coverage needs calculator, comparison of general product features, SEO metadata, and privacy and terms pages.
+Categories: life, auto, home, travel, health and business insurance. The life insurance coverage calculator runs locally in the browser.
 
-No live insurer premiums, quote API, lead submission, policy applications or sales. Calculator is illustrative and not personalized advice.
+**No live quotes or insurer integrations.** No applications, sales or lead submissions. Content is educational and does not constitute personalized advice. Commercial functionality requires appropriate licensing, insurer authorization, privacy and compliance review.
 
-Before commercial launch: verify provincial licensing and insurer appointments, add real business and contact details, and complete privacy/legal/compliance review. Integrate only approved secure quote systems.
-
-Netlify publish directory: `.`; build command blank.
+Current deployment: https://comparelifeinsurance-canada.netlify.app/
