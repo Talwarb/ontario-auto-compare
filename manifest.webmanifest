@@ -1,0 +1,41 @@
+{
+  "id": "/",
+  "name": "Canada Money Calculator",
+  "short_name": "Canada Money",
+  "description": "Free Canadian mortgage, loan, GST/HST, salary and savings calculators.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f2f7fc",
+  "theme_color": "#123f63",
+  "lang": "en-CA",
+  "categories": [
+    "finance",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Mortgage Calculator",
+      "short_name": "Mortgage",
+      "url": "/#mortgage"
+    },
+    {
+      "name": "GST/HST Calculator",
+      "short_name": "GST/HST",
+      "url": "/#sales-tax"
+    },
+    {
+      "name": "Salary Calculator",
+      "short_name": "Salary",
+      "url": "/#salary"
+    }
+  ]
+}
